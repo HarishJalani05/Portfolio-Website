@@ -21,13 +21,13 @@ const projects: Project[] = [
   {
     title: "Animal Geofencing & Live Tracking System",
     tag: "IoT & Real-Time Analytics",
-    period: "Jun 25 – May 26",
+    period: "Jan 25 – May 26",
     desc: "Engineered an IoT animal monitoring device utilizing GPS modules, cloud database storage, and real-time perimeter alert mechanisms to track livestock location and trigger geofence breach warnings on a live dashboard."
   },
   {
     title: "Dyslexia Kids Learning System",
     tag: "Assistive Tech & EdTech",
-    period: "Jun 25 – Nov 25",
+    period: "Jun 25 – May 26",
     desc: "Developed an interactive assistive educational software tool leveraging multimodal audiovisual cues, synchronized pronunciations, and tactile feedback to enhance word recognition for children with dyslexia."
   },
   {
